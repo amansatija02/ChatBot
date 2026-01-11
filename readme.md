@@ -15,6 +15,7 @@ Build a complete Python application that integrates a user interface, applicatio
 - Streamlit
 - Google Gemini API
 - Environment variables (.env)
+- Tools: git,github
 
 ## Project Structure
 - app.py: Streamlit application entry point
