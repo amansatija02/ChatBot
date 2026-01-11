@@ -19,7 +19,7 @@ Build a complete Python application that integrates a user interface, applicatio
 ## Project Structure
 - app.py: Streamlit application entry point
 - chatbot.py: Core chatbot logic and API interaction
-- utils.py: Input validation and helper functions
+- helper.py: Input validation and helper functions
 
 ## What I Learned
 - Structuring Python projects into logical modules
@@ -29,7 +29,7 @@ Build a complete Python application that integrates a user interface, applicatio
 - Writing clean, reusable functions and classes
 - Handling runtime errors gracefully
 
-## Limitations
+## Limitations 
 - Chat history is session-based and not persisted
 - No authentication or rate limiting
 - Single-user focus
