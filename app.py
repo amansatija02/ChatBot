@@ -16,7 +16,7 @@ st.title("Welcome to Chatbot")
 
 user_input = st.text_input("You")
 
-if st.button("text"):
+if st.button("Send"):
     try:
         message = clean_input(user_input)
         reply = bot.reply(message)
